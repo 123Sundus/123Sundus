@@ -1,0 +1,6 @@
+LOCALIZATION TECHNIQUE USING VISUAL SLAM (For Two wheeled robot)
+This project focuses on simultaneous localization and mapping (SLAM) using visual information from sensors such as cameras. Specifically, A technique is used called visual SLAM, which allows a wheeled robot to determine its own position within an environment in real-time. By analyzing visual data from cameras, the robot can build a map of its surroundings while simultaneously tracking its own location within that map. This is a crucial capability for mobile robots, as it enables them to navigate and interact with their environment in a more efficient and autonomous manner. The project includes all necessary zip folder of the design implementation and code for the two wheeled robot. I hope that this project can give out  a useful starting point for further research and development in the field of robotics.
+Project Structure:
+The project includes all necessary files for the design implementation and code for the two-wheeled robot. Here is a brief overview of the project structure:
+design: Contains the design files for the two-wheeled robot.
+code: Contains the coding files and folders for the Localization technique using visual SLAM.
